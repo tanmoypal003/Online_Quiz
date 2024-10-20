@@ -1,9 +1,9 @@
-import React from 'react'
+import Output from "./Components/Output"
 
 const App = () => {
   return (
     <div>
-      <h1>Hello World!</h1>
+      <Output />
     </div>
   )
 }
